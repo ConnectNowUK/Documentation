@@ -1,3 +1,11 @@
+<img src="https://user-images.githubusercontent.com/17238742/235530665-af2e8ddc-2f06-4579-a416-2d0aa441cf7f.svg" width="600">
+
+|   |   |
+|---|---|
+| Title      | ConnectNow Chat - Basic Documentation |
+| Date      | 02 May, 1012       |
+| Version   | 2.0        |
+
 ## Introduction
 
 Welcome to the ConnectNow Chat User Guide. This guide is designed to help you understand how to use the ConnectNow Chat web application effectively. ConnectNow Chat is a powerful communication tool that enables users to connect with friends, family, and colleagues in real-time. Our application offers a variety of features to make your conversations more engaging and interactive.
