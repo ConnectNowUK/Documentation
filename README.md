@@ -6,13 +6,20 @@ Welcome to the ConnectNow Chat User Guide. This guide is designed to help you un
 
 To access in to your ConnectNow Chat account, follow these steps:
 Navigate to the ConnectNow Chat website (<https://app.connectnow.chat>). It will ask you to get authenticated and redirect you to login page. Enter your email address and password in the appropriate fields. Then click the "Login" button.
+
 ![Login](https://connectnowuk.github.io/documentation/screenshots/demo%20(1).png)
+
 If you can't remember your password, then click "Forgot Password" button.
 If you don't have any account on ConnectNow, click on the "Register now" button. You will redirect to registration page.
+
 ![Screenshot](https://connectnowuk.github.io/documentation/screenshots/demo%20(2).png)
+
 There, input required data in appropiate fields. Then click the "Register" button.
+
 ![Screenshot](https://connectnowuk.github.io/documentation/screenshots/demo%20(3).png)
+
 You will be authenticated and redirect to dashboard automatically.
+
 ![Screenshot](https://connectnowuk.github.io/documentation/screenshots/demo%20(4).png)
 
 
@@ -32,6 +39,7 @@ Also you can add a custom floating widget on your company website by pasting wid
 
 To set your account up, you can follow these steps.
 Click on the "Settings" button from navigation you can find some settings option. You can also use this link <https://app.connectnow.chat/settings> for settings.
+
 - ![Screenshot](https://connectnowuk.github.io/documentation/screenshots/demo%20(5).png)
 - ![Screenshot](https://connectnowuk.github.io/documentation/screenshots/demo%20(6).png)
 - ![Screenshot](https://connectnowuk.github.io/documentation/screenshots/demo%20(7).png)
